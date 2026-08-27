@@ -1,2 +1,12 @@
 # Proyecto-5_Estudio-de-caso-de-economia
-En este repositorio almacena el proyecto 5 de la materia analítica de datos el cual consiste en un caso de estudio de economía enfocado en el cambio real de la capacidad adquisitiva  de los ingresos laborales en Colombia de 2024 a 2025 en un periodo especifico. diseñar, implementar, analizar, documentar y sustentar una solución programada en Python que resuelva un estudio de caso aplicado de procesamiento y análisis de datos. La actividad articula todos los contenidos del curso: pensamiento computacional y algorítmico, estructuras de control, colecciones, funciones, programaciónorientada a objetos y procesamiento de datos con bibliotecas especializadas.
+El salario sube, pero… ¿alcanza para más?
+
+Proyecto de análisis de datos realizado con información de la GEIH para diciembre de 2024 y 2025. El objetivo es analizar la evolución de los ingresos laborales considerando el efecto de la inflación, para determinar si el aumento de los ingresos representa una mejora real en el poder adquisitivo.
+
+Incluye:
+-Depuración y validación de datos.
+-Cálculo de crecimiento nominal y real.
+-Análisis por sexo, nivel educativo y rango de edad.
+-Visualizaciones y resumen de resultados.
+
+Herramientas: Python, Pandas, Matplotlib y Google Colab.
